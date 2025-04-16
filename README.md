@@ -1,0 +1,1 @@
+# Sales-Trend-Using-Aggregations-sql
